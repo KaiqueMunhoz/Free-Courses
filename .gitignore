@@ -12,6 +12,7 @@ lib-cov
 
 # Coverage directory used by tools like istanbul
 coverage
+.nyc_output
 
 # Jest Clutter
 __snapshots__
@@ -32,3 +33,5 @@ bower_components
 
 # Ignore build files
 public
+
+fast-deploy.sh
